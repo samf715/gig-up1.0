@@ -42,7 +42,7 @@
         "physicalKeyboard": false, 
         "usb": "USB 2.0"
     }, 
-    "id": "dell-venue", 
+    "id": "concert",
     "images": [
         "img/phones/dell-venue.0.jpg", 
         "img/phones/dell-venue.1.jpg", 
@@ -51,7 +51,7 @@
         "img/phones/dell-venue.4.jpg", 
         "img/phones/dell-venue.5.jpg"
     ], 
-    "name": "Dell Venue", 
+    "name": "Concert",
     "sizeAndWeight": {
         "dimensions": [
             "64.0 mm (w)", 

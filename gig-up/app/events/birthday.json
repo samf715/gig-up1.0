@@ -40,13 +40,13 @@
         "physicalKeyboard": true, 
         "usb": "USB 2.0"
     }, 
-    "id": "droid-2-global-by-motorola", 
+    "id": "birthday",
     "images": [
         "img/phones/droid-2-global-by-motorola.0.jpg", 
         "img/phones/droid-2-global-by-motorola.1.jpg", 
         "img/phones/droid-2-global-by-motorola.2.jpg"
     ], 
-    "name": "DROID\u2122 2 Global by Motorola", 
+    "name": "Birthday",
     "sizeAndWeight": {
         "dimensions": [
             "60.5 mm (w)", 
