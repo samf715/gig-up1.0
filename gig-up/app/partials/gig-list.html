@@ -1,0 +1,28 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-2">
+            <!--Sidebar content-->
+
+            Search: <input ng-model="query">
+            Sort by:
+            <select ng-model="orderProp">
+                <option value="name">Alphabetical</option>
+                <option value="age">Newest</option>
+            </select>
+
+        </div>
+        <div class="col-md-10">
+            <!--Body content-->
+
+            <ul class="events">
+                <li ng-repeat="event in events | filter:query | orderBy:orderProp"
+                    class="thumbnail event-listing">
+                    <a href="#/events/{{gig.id}}" class="thumb"><img ng-src="{{gig.imageUrl}}"></a>
+                    <a href="#/events/{{gig.id}}">{{gig.name}}</a>
+                    <p>{{gig.snippet}}</p>
+                </li>
+            </ul>
+
+        </div>
+    </div>
+</div>
