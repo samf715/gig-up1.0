@@ -1,0 +1,24 @@
+[
+    {
+        "age": 0, 
+        "id": "wedding",
+        "imageUrl": "img/events/motorola-xoom-with-wi-fi.0.jpg",
+        "name": "Wedding",
+        "snippet": "The Next, Next Generation\r\n\r\nExperience the future with Motorola XOOM with Wi-Fi, the world's first tablet powered by Android 3.0 (Honeycomb)."
+    }, 
+    {
+        "age": 1, 
+        "id": "concert",
+        "imageUrl": "img/events/motorola-xoom.0.jpg",
+        "name": "Concert",
+        "snippet": "The Next, Next Generation\n\nExperience the future with MOTOROLA XOOM, the world's first tablet powered by Android 3.0 (Honeycomb)."
+    }, 
+    {
+        "age": 2,
+        "carrier": "AT&T",
+        "id": "birthday",
+        "imageUrl": "img/events/motorola-atrix-4g.0.jpg",
+        "name": "Birthday",
+        "snippet": "MOTOROLA ATRIX 4G the world's most powerful smartphone."
+    }
+]

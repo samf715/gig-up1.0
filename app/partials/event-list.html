@@ -1,0 +1,34 @@
+<div class="container-fluid">
+    <!--This div is for the eventlist picture/whatever you picture is just a filler - dien-->
+    <div class="container">
+        <img src="http://www.shootsandgiggles.com/events/events.jpg">
+    </div>
+    <hr>
+
+  <div class="row">
+    <div class="col-md-2">
+      <!--Sidebar content-->
+
+      Search: <input ng-model="query">
+      Sort by:
+      <select ng-model="orderProp">
+        <option value="name">Alphabetical</option>
+        <option value="age">Newest</option>
+      </select>
+
+    </div>
+    <div class="col-md-10">
+      <!--Body content-->
+
+      <ul class="events">
+        <li ng-repeat="event in events | filter:query | orderBy:orderProp"
+            class="thumbnail event-listing">
+          <a href="#/events/{{event.id}}" class="thumb"><img ng-src="{{event.imageUrl}}"></a>
+          <a href="#/events/{{event.id}}">{{event.name}}</a>
+          <p>{{event.snippet}}</p>
+        </li>
+      </ul>
+
+    </div>
+  </div>
+</div>
