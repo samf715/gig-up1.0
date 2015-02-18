@@ -10,11 +10,17 @@ gigupControllers.controller('EventListCtrl', ['$scope', 'Event',
     $scope.orderProp = 'age';
   }]);
 
-gigupControllers.controller('EventDetailCtrl', ['$scope', '$routeParams', 'Event',
-  function($scope, $routeParams, Event) {
+//gigupControllers.controller('GigListCtrl', ['$scope', 'Gigs',
+//    function($scope, Gigs) {
+//        $scope.gigs = Gigs.query();
+//        $scope.orderProp = 'age';
+//    }]);
 
-      console.log(">>>>>>>",$routeParams.eventId);
-    $scope.event = Event.get({eventId: $routeParams.eventId}, function(event) {
+gigupControllers.controller('EventDetailCtrl', ['$scope', '$stateParams', 'Event',
+  function($scope, $stateParams, Event) {
+
+      console.log(">>>>>>>",$stateParams.eventId);
+    $scope.event = Event.get({eventId: $stateParams.eventId}, function(event) {
       $scope.mainImageUrl = event.images[0];
     });
 

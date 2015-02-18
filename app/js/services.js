@@ -10,3 +10,10 @@ gigupServices.factory('Event', ['$resource',
       query: {method:'GET', params:{eventId:'events'}, isArray:true}
     });
   }]);
+
+//gigupServices.factory('Gigs', ['$resource',
+//    function($resource){
+//        return $resource('gigs/:gigsId.json', {}, {
+//            query: {method:'GET', params:{eventId:'gigs'}, isArray:true}
+//        });
+//    }]);
