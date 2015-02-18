@@ -2,143 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfe57e86-ea3c-439b-8b5a-a3b18767b16c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/.bowerrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/.bowerrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/css/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/css/animations.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/css/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/events/birthday.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/events/concert.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/events/events.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/events/wedding.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/gigs/photographer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/dell-streak-7.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/dell-streak-7.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/dell-streak-7.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/dell-streak-7.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/dell-streak-7.4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/dell-venue.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/dell-venue.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/dell-venue.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/dell-venue.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/dell-venue.4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/dell-venue.5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/droid-2-global-by-motorola.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/droid-2-global-by-motorola.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/droid-2-global-by-motorola.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/droid-pro-by-motorola.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/droid-pro-by-motorola.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/lg-axis.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/lg-axis.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/lg-axis.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/motorola-atrix-4g.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/motorola-atrix-4g.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/motorola-atrix-4g.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/motorola-atrix-4g.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/motorola-bravo-with-motoblur.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/motorola-bravo-with-motoblur.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/motorola-bravo-with-motoblur.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/motorola-charm-with-motoblur.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/motorola-charm-with-motoblur.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/motorola-charm-with-motoblur.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/motorola-defy-with-motoblur.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/motorola-defy-with-motoblur.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/motorola-defy-with-motoblur.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/motorola-xoom-with-wi-fi.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/motorola-xoom-with-wi-fi.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/motorola-xoom-with-wi-fi.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/motorola-xoom-with-wi-fi.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/motorola-xoom-with-wi-fi.4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/motorola-xoom-with-wi-fi.5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/motorola-xoom.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/motorola-xoom.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/motorola-xoom.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/nexus-s.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/nexus-s.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/nexus-s.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/nexus-s.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/samsung-galaxy-tab.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/samsung-galaxy-tab.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/samsung-galaxy-tab.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/samsung-galaxy-tab.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/samsung-galaxy-tab.4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/samsung-galaxy-tab.5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/samsung-galaxy-tab.6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/samsung-gem.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/samsung-gem.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/samsung-gem.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/samsung-mesmerize-a-galaxy-s-phone.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/samsung-mesmerize-a-galaxy-s-phone.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/samsung-mesmerize-a-galaxy-s-phone.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/samsung-mesmerize-a-galaxy-s-phone.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/samsung-showcase-a-galaxy-s-phone.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/samsung-showcase-a-galaxy-s-phone.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/samsung-showcase-a-galaxy-s-phone.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/samsung-transform.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/samsung-transform.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/samsung-transform.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/samsung-transform.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/samsung-transform.4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/sanyo-zio.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/sanyo-zio.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/sanyo-zio.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/t-mobile-g2.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/t-mobile-g2.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/t-mobile-g2.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/t-mobile-mytouch-4g.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/t-mobile-mytouch-4g.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/t-mobile-mytouch-4g.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/t-mobile-mytouch-4g.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/t-mobile-mytouch-4g.4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/events/t-mobile-mytouch-4g.5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/log-in/controller.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/log-in/form.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/img/log-in/index1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/js/animations.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/js/controllers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/js/directives.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/js/filters.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/js/services.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/partials/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/partials/event-detail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/partials/event-list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/partials/gig-detail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/app/partials/gig-list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/npm-debug.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/scripts/private/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/scripts/private/old/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/scripts/private/old/ScrapeData.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/scripts/private/old/format-json.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/scripts/private/old/goto_step.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/scripts/private/old/goto_step.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/scripts/private/old/snapshot.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/scripts/private/push-to-github.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/scripts/private/retag.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/scripts/private/test-all.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/scripts/private/update-gh-pages.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/scripts/update-repo.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/test/e2e/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/test/e2e/scenarios.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/test/karma.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/test/protractor-conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/test/unit/controllersSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/test/unit/directivesSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/test/unit/filtersSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gig-up/test/unit/servicesSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/npm-debug.log" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gig-up1.0.iws" />
@@ -193,6 +56,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+              <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -203,31 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wedding.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="wedding.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/events/wedding.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.37056738" vertical-offset="209" max-vertical-offset="1330">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1330">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bower.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.7142856" vertical-offset="0" max-vertical-offset="475">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.6785714" vertical-offset="57" max-vertical-offset="798">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -272,6 +125,7 @@
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/js/controllers.js" />
         <option value="$PROJECT_DIR$/app/js/app.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -335,42 +189,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gig-up1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gig-up1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gig-up1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gig-up1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="events" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -467,10 +285,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20614597" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32266325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -590,14 +408,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6785714" vertical-offset="57" max-vertical-offset="798">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bower.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.7142856" vertical-offset="0" max-vertical-offset="475">
@@ -630,14 +440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.25" vertical-offset="0" max-vertical-offset="665">
-          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="665">
@@ -646,10 +448,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03368794" vertical-offset="57" max-vertical-offset="798">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/events/wedding.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.37056738" vertical-offset="209" max-vertical-offset="1330">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1330">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.25" vertical-offset="0" max-vertical-offset="665">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
           <folding />
         </state>
       </provider>
