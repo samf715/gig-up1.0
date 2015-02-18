@@ -1,0 +1,21 @@
+<div ng-controller="DbController">
+
+        <label for='nameInput'>User:</label>
+        <input ng-model='name'
+               type='text'
+               id='nameInput'
+               placeholder='User'>
+        <label for='emailInput'>Email:</label>
+        <input ng-model='userbases'
+               ng-keydown="addUser($event)"
+               type='text'
+               id='emailInput'
+               placeholder='Email'>
+    <ul>
+        <li ng-repeat='userbases in useradd'>
+            <strong>{{userbases.from}}</strong>
+            <br>
+            <bold>{{userbases.body}}</bold>
+        </li>
+    </ul>
+</div>
