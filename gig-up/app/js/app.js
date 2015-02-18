@@ -22,6 +22,15 @@ gigupApp.config(['$routeProvider',
         templateUrl: 'partials/event-detail.html',
         controller: 'EventDetailCtrl'
       }).
+        //created a log in partial
+        when('/login',{
+            templateUrl: 'partials/login.html',
+            controller: 'LoginController'
+        }).
+        when('/addEvent',{
+            templateUrl: 'partials/addEvent.html',
+            controller: 'AddEventController'
+        }).
       otherwise({
         redirectTo: '/events'
       });
