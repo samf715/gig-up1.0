@@ -21,13 +21,38 @@
   <script src="js/services.js"></script>
 </head>
 <body>
-<script>
-    var myDataRef = new Firebase('https://wn30u39beit.firebaseio-demo.com/');
-</script>
+<!--Created a navBar with links leading the partials to login and add event -dien-->
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <a class="navbar-brand" href="#">Gig-Up</a>
+        </div>
 
+        <!-- So far Home addEvent and login has its own pages -dien -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="#events"><i class="fa fa-home"></i>Home</a></li>
+                <li><a href="#addEvent"><span class="glyphicon glyphicon-plus"></span>Add Event</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="#login">Login/SignUp</a></li>
+            </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+</div>
   <div class="view-container">
     <div ng-view class="view-frame"></div>
   </div>
+<hr>
+<footer class="text-center">
+    @Gig-Up
+</footer>
 
+<script>
+    var myDataRef = new Firebase('https://wn30u39beit.firebaseio-demo.com/');
+</script>
 </body>
 </html>
